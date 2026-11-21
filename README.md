@@ -4,3 +4,4 @@ Tổng hợp bài tập và mindmap của Session 16 (Python nâng cao). Mỗi b
 
 ## Danh sách bài
 
+- [Mindmap Python Session 15 - Các hàm xử lý chuỗi & list](./mind-map-python-session-16/)
